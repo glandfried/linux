@@ -1,3 +1,5 @@
+# https://cran.r-project.org/bin/linux/ubuntu/
+
 sudo -s
 
 # update indices
