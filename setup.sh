@@ -19,3 +19,5 @@ sudo apt install python3-pip
 sudo apt install kate
 sudo apt install inkscape
 sudo apt install retext
+sudo apt install vim
+
