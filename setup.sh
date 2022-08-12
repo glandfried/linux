@@ -20,4 +20,4 @@ sudo apt install kate
 sudo apt install inkscape
 sudo apt install retext
 sudo apt install vim
-
+sudo apt install pdftk
