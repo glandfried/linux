@@ -18,3 +18,5 @@ sudo mv /etc/ImageMagick-6/policy.xml /etc/ImageMagick-6/policy.xml.off
 #<policy domain="coder" rights="read|write" pattern="PDF" />
 
 
+## Para reducir el peso de las fotos sin bajar demasiado la calidad
+# convert -strip -interlace Plane -gaussian-blur 0.05 -quality 65% 02.jpg 02b.jpg
