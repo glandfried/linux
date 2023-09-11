@@ -6,6 +6,7 @@ sudo apt install tig
 sudo apt install htop
 sudo apt install texlive
 sudo apt install texlive-extra-utils
+sudo apt install texlive-latex-extra 
 sudo apt install texlive-pictures 
 sudo apt install texlive-lang-spanish
 sudo apt install texlive-lang-english
@@ -17,9 +18,11 @@ sudo ln -s /opt/julia-1.9.3/bin/julia /usr/local/bin/julia
 sudo apt install r-base-core
 sudo apt install python3-pip
 sudo apt install kate
+sudo apt install konsole
 sudo apt install inkscape
 sudo apt install retext
 sudo apt install vim
 sudo apt install pdftk
 sudo apt install hugo
 sudo apt install libreoffice
+
