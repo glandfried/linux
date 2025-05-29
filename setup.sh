@@ -27,7 +27,7 @@ sudo apt install vim
 sudo apt install pdftk
 sudo apt install hugo
 sudo apt install libreoffice
-sudo apt-get update
+
 
 # python
 sudo apt install python3-poetry
